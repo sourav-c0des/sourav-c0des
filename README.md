@@ -7,6 +7,7 @@ Hii there 👋, I'm Sourav Donkar
 😄 Pronouns: He / Him
 
 🚀 About Me
+🔭 I’m currently working on AWS Services - Lambda , DynamoDB , SNS / SQS , S3 , EC2 , IAM
 
 🔭 Currently working on improving onboarding experiences & UI/Backend enhancements.
 
@@ -16,7 +17,6 @@ Hii there 👋, I'm Sourav Donkar
 
 💬 Ask me about Java, SQL Optimization, Problem-Solving, System Design basics.
 
-🎯 Fun fact: My favorite IPL team is CSK 🦁💛!
 
 🛠️ Skills & Tools
 
