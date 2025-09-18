@@ -1,16 +1,27 @@
-## Hi there 👋
+Hii there 👋, I'm Sourav Donkar
 
-<!--
-**sourav-c0des/sourav-c0des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A passionate Full-Stack Engineer with experience in backend (Java, SQL, AWS) and frontend technologies.
+🎓 Master’s in Cloud Computing (University of Leicester, UK) | B.Tech in Computer Science.
+🌱 A keen learner exploring Full-Stack Development, Cloud, and DevOps.
+⚡ Love to build scalable solutions, practice problem-solving, and continuously sharpen skills.
+😄 Pronouns: He / Him
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on improving onboarding experiences & UI/Backend enhancements.
+
+🌱 Learning and expanding into DevOps & Full-Stack.
+
+👯 Looking to collaborate on Open Source Projects.
+
+💬 Ask me about Java, SQL Optimization, Problem-Solving, System Design basics.
+
+🎯 Fun fact: My favorite IPL team is CSK 🦁💛!
+
+🛠️ Skills & Tools
+
+Languages: Java | SQL | Python | JavaScript
+Web Development: React | HTML | CSS
+Cloud & DevOps: AWS | CI/CD | GitHub Actions
+Databases: MySQL | PostgreSQL
+Other: TDD | Agile | REST APIs
