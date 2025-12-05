@@ -1,6 +1,6 @@
 Hii there 👋, I'm Sourav Donkar
 
-💻 A passionate Full-Stack Engineer with experience in backend (Java, SQL, AWS) and frontend technologies.
+💻 A passionate Full-Stack Engineer with experience in backend (Python, Java, SQL, AWS) and frontend technologies.
 🎓 Master’s in Cloud Computing (University of Leicester, UK) | B.Tech in Computer Science.
 🌱 A keen learner exploring Full-Stack Development, Cloud, and DevOps.
 ⚡ Love to build scalable solutions, practice problem-solving, and continuously sharpen skills.
